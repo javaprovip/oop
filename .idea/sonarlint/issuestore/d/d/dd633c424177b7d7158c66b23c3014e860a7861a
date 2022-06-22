@@ -1,0 +1,13 @@
+
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(Έη ούÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ζ«‚ίψÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ήχνόÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(’δ±‡
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Υ§ξώÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Τ™Δÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.( £‰
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(£Φ¤»
+M
+java:S1128"7Remove this unused import 'javax.imageio.IIOException'.(΄ΒΟ’
